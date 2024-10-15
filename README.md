@@ -1,4 +1,4 @@
-private string Name = "NDC-Richard";
+private string Name = "Richard-NDC";
 
 private string Hobby = "Coding";
 
