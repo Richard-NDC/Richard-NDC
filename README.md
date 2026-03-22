@@ -1,6 +1,6 @@
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=239120&center=true&vCenter=true&width=435&lines=C%23+Developer;Reverse+Engineering+Explorer;Building+Robust+Applications;Always+Learning+%F0%9F%9A%80)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=239120&center=true&vCenter=true&width=435&lines=C%23+Developer;Reverse+Engineering+Explorer;Always+Learning+%F0%9F%9A%80)
 
 </div>
 
@@ -82,9 +82,9 @@ I'm a **C# Developer** passionate about building robust applications and explori
 
 <div align="center">
   
-  ![Profile Views](https://komarev.com/ghpvc/?username=Urbangfzero&color=blueviolet&style=flat-square&label=Profile+Views)
+  ![Profile Views](https://komarev.com/ghpvc/?username=Richard-NDC&color=blueviolet&style=flat-square&label=Profile+Views)
   
-  ⭐️ From [Urbangfzero](https://github.com/Urbangfzero) | *"Code is poetry written in logic"*
+  ⭐️ From [NDCxRichard](https://github.com/Richard-NDC) | *"I love coding lol"*
   
 </div>
 
