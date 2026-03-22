@@ -1,6 +1,6 @@
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=239120&center=true&vCenter=true&width=435&lines=C%23+Developer+%7C+.NET+Enthusiast;Reverse+Engineering+Explorer;Building+Robust+Applications;Always+Learning+%F0%9F%9A%80)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=239120&center=true&vCenter=true&width=435&lines=C%23+Developer+%7C+;Reverse+Engineering+Explorer;Building+Robust+Applications;Always+Learning+%F0%9F%9A%80)
 
 </div>
 
@@ -53,19 +53,6 @@ I'm a **C# Developer** passionate about building robust applications and explori
 
 </div>
 
-## 🎯 Current Focus
-
-<div align="center">
-
-```
-█▓▒░ Mastering C# and .NET ecosystem        ████████████░░░░░░░░  60%
-█▓▒░ Exploring Reverse Engineering          ██████░░░░░░░░░░░░░░  30%
-█▓▒░ Understanding Assembly & Binary        ████░░░░░░░░░░░░░░░░  20%
-█▓▒░ Building Open Source Projects          ██░░░░░░░░░░░░░░░░░░  10%
-```
-
-</div>
-
 <div align="center">
 
 ![Divider](https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif)
@@ -82,8 +69,6 @@ I'm a **C# Developer** passionate about building robust applications and explori
 </div>
 
 <div align="center">
-  
-  💬 **Discord:** urban_gfzero
   
   Feel free to reach out if you want to collaborate or discuss anything tech-related!
   
